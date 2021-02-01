@@ -1,0 +1,17 @@
+{
+  "name": "git-config-toggle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "james": "node app.js james",
+    "ecej": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "shelljs": "^0.8.4",
+    "yargs": "^16.2.0"
+  }
+}
